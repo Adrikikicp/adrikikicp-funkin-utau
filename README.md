@@ -15,4 +15,5 @@ This voicebanks are not from Blantados or GenoX
 Here are the voicebanks of Blantados and GenoX
 
 https://github.com/Blantados/blantados-funkin-utau
+
 https://github.com/GenoX/funkin-utau
